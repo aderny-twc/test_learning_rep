@@ -1,2 +1,2 @@
 # test_learning_rep
-Just for learning, nothin to see here
+Just for learning, nothing to see here
